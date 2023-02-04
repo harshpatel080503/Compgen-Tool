@@ -5,6 +5,8 @@ import android.content.Intent;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
+import com.android.bargraph.R;
+
 public class MainActivity extends AppCompatActivity {
     private Button b1 ;
     @Override
